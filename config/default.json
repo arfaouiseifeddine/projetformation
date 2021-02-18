@@ -1,0 +1,10 @@
+{
+    "MONGOURI":"mongodb://localhost:27017/Annonce",
+
+
+    "tokensecret":"mytokensecret"
+
+
+    
+ 
+}
